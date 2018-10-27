@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180722",
-		"title": "智慧语录：一个人的衰老，从不再旅行开始；神的叮咛我最爱：要明白神的旨意",
-		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee180722.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 29,
-		"artistName": "拥抱每一天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201830/ee20180722/ee/ee180722.mp3",
-		"id": 29180722
-	},
-	{
 		"time": "20180723",
 		"title": "智慧语录：多言多语难免犯错，约束嘴唇便是智慧；寻找生命的真光：你长得不好看？你看看我！",
 		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee180723.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "拥抱每一天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/ee20181027/ee/ee181027.mp3",
 		"id": 29181027
+	},
+	{
+		"time": "20181028",
+		"title": "智慧语录：微生物学之父路易‧巴斯德的信仰格言；神的叮咛我最爱：真假师傅之辨",
+		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee181028.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 29,
+		"artistName": "拥抱每一天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/ee20181028/ee/ee181028.mp3",
+		"id": 29181028
 	}
 ]
