@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180722",
-		"title": "神使我刚强（但10:1、7-19）",
-		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180722.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 30,
-		"artistName": "旷野吗哪",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201830/mw20180722/mw/mw180722.mp3",
-		"id": 30180722
-	},
-	{
 		"time": "20180723",
 		"title": "总是知足（腓4:10-20）",
 		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180723.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "旷野吗哪",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/mw20181027/mw/mw181027.mp3",
 		"id": 30181027
+	},
+	{
+		"time": "20181028",
+		"title": "神信任我们（申2:1-8）",
+		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181028.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 30,
+		"artistName": "旷野吗哪",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/mw20181028/mw/mw181028.mp3",
+		"id": 30181028
 	}
 ]
