@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180720",
-		"title": "教导儿女智财教育：第三课、善用红包教育（上）红包是不贪财的好教材",
-		"downUrl": "http://txly2.net/ly/audio/2018/up/up180720.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 20,
-		"artistName": "亲情不断电",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201829/up20180720/up/up180720.mp3",
-		"id": 20180720
-	},
-	{
 		"time": "20180723",
 		"title": "亲情厨房：水果传（3）柿饼；与父母促膝谈：成功的妈妈",
 		"downUrl": "http://txly2.net/ly/audio/2018/up/up180723.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "亲情不断电",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/up20181026/up/up181026.mp3",
 		"id": 20181026
+	},
+	{
+		"time": "20181029",
+		"title": "情绪与真理（1）“忧郁'”的普遍现象",
+		"downUrl": "http://txly2.net/ly/audio/2018/up/up181029.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 20,
+		"artistName": "亲情不断电",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/up20181029/up/up181029.mp3",
+		"id": 20181029
 	}
 ]
