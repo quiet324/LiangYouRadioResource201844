@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180720",
-		"title": "情感交流站：靠主恩典学主样式",
-		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut180720.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 18,
-		"artistName": "我们的时间",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201829/ut20180720/ut/ut180720.mp3",
-		"id": 18180720
-	},
-	{
 		"time": "20180723",
 		"title": "为神建立家室：妒忌的解药",
 		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut180723.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "我们的时间",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/ut20181026/ut/ut181026.mp3",
 		"id": 18181026
+	},
+	{
+		"time": "20181029",
+		"title": "情感交流站：从相争到相爱",
+		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut181029.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 18,
+		"artistName": "我们的时间",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/ut20181029/ut/ut181029.mp3",
+		"id": 18181029
 	}
 ]
