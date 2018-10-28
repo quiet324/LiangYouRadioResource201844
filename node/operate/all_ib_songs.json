@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180723",
-		"title": "给你，我的歌：《老婆》；罗文辉读圣经：马太福音13章（主持：罗文辉）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ib/ib180723.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 16,
-		"artistName": "无限飞行号",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201830/ib20180723/ib/ib180723.mp3",
-		"id": 16180723
-	},
-	{
 		"time": "20180724",
 		"title": "给你，我的歌：《中国话》；杏林子手记《一生的承诺》（19）（主持：罗文辉）",
 		"downUrl": "http://txly2.net/ly/audio/2018/ib/ib180724.mp3",
@@ -1009,5 +998,16 @@
 		"artistName": "无限飞行号",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/ib20181028/ib/ib181028.mp3",
 		"id": 16181028
+	},
+	{
+		"time": "20181029",
+		"title": "给你，我的歌：《听海》；罗文辉读圣经：马太福音27:51-28章（主持：罗文辉）",
+		"downUrl": "http://txly2.net/ly/audio/2018/ib/ib181029.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 16,
+		"artistName": "无限飞行号",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/ib20181029/ib/ib181029.mp3",
+		"id": 16181029
 	}
 ]
