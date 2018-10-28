@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180720",
-		"title": "黑暗中的舞者：第十二章、地上的家，天上的门；第十三章、抵达幸福的巅峰",
-		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180720.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 10,
-		"artistName": "书香园地",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201829/bc20180720/bc/bc180720.mp3",
-		"id": 10180720
-	},
-	{
 		"time": "20180723",
 		"title": "信心日引：相信神（约14:1）；大阅读家：第四章、从峡谷的对面阅读-3",
 		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180723.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "书香园地",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/bc20181026/bc/bc181026.mp3",
 		"id": 10181026
+	},
+	{
+		"time": "20181029",
+		"title": "信心日引：抗拒败坏的本性（加5:16）；俗世圣徒：第十三章、成长-1",
+		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc181029.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 10,
+		"artistName": "书香园地",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/bc20181029/bc/bc181029.mp3",
+		"id": 10181029
 	}
 ]
