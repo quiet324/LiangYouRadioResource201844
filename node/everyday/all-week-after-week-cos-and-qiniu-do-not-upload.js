@@ -315,7 +315,9 @@ var j = schedule.scheduleJob(rule, function() { // rule hour at 5 minutes
                                         artist.shortName !== 'vc' &&
                                         artist.shortName !== 'wa' &&
                                         artist.shortName !== 'wf' &&
-                                        artist.shortName !== 'yp') {
+                                        artist.shortName !== 'yp' &&
+				    	artist.shortName !== 'hp' &&
+				    	artist.shortName !== 'wn') {
                                         all_artist_songs.shift();
 
                                     }
