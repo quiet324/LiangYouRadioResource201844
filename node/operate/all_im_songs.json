@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180720",
-		"title": "母子两地书：心意更新而变化──这个世界追求的新奇刺激很多时候并不是新的，而是旧的被良知唾弃的东西，圣经教导的心意更新而变化是要我们回归真理，只有神的话语才能不断刷新我们对真相的认知；信仰的传承就是父母做好榜样，用生命影响生命的方式，把下一代带到上帝面前。父母健康的信仰生活不仅会对下一代产生积极的影响，也会造就一个幸福的家庭。",
-		"downUrl": "http://txly2.net/ly/audio/2018/im/im180720.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 14,
-		"artistName": "i关怀心磁场",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201829/im20180720/im/im180720.mp3",
-		"id": 14180720
-	},
-	{
 		"time": "20180723",
 		"title": "心磁场大平台：第三代吸毒者的戒毒经──吸毒上瘾最难戒的是心瘾，那是一种心魔，你明知它是魔鬼，就是无法摆脱它。可这对夫妇不仅戒掉了多年的吸毒瘾，还开办了戒毒机构，帮助其他吸毒者与毒魔战斗。",
 		"downUrl": "http://txly2.net/ly/audio/2018/im/im180723.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "i关怀心磁场",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/im20181026/im/im181026.mp3",
 		"id": 14181026
+	},
+	{
+		"time": "20181029",
+		"title": "信仰大擂台：人为何不愿相信上帝──有一群羊，一只闯下山崖摔死，其它羊竟然接二连三跟着跳下……多数人不愿认识和相信上帝都同样是羊群效应的结果，人若跳出思维局限，就会有不一样的看见。当然最根本的原因，归根结底还是因为人的罪性和不可避免的犯罪，导致人的生命与上帝隔绝、绝缘……",
+		"downUrl": "http://txly2.net/ly/audio/2018/im/im181029.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 14,
+		"artistName": "i关怀心磁场",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/im20181029/im/im181029.mp3",
+		"id": 14181029
 	}
 ]
