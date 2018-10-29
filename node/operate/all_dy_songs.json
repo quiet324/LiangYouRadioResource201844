@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180720",
-		"title": "好得无比，每一天：你怎晓得我心所想的呢？（诗68:6）；鲍勃鲍曼博士生平广播剧（5）；有奖问答（5）鲍曼博士前往哪里开展“手提宣教士”事工？我爱背金句：提前4:16",
-		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy180720.mp3",
-		"duration": 3560,
-		"size": "28.5M",
-		"artistId": 24,
-		"artistName": "献上今天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201829/dy20180720/dy/dy180720.mp3",
-		"id": 24180720
-	},
-	{
 		"time": "20180723",
 		"title": "好得无比，每一天：保罗身上的刺（林后12:8-9）；鲍勃鲍曼博士生平广播剧（6）；有奖问答（6）说出普罗西索主持的电台节目名称；我爱背金句：提前6:11",
 		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy180723.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "献上今天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/dy20181026/dy/dy181026.mp3",
 		"id": 24181026
+	},
+	{
+		"time": "20181029",
+		"title": "好得无比，每一天：爱心说实话（弗4:15）；天路历程（16）；我爱背金句：赛6:8",
+		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy181029.mp3",
+		"duration": 3560,
+		"size": "28.5M",
+		"artistId": 24,
+		"artistName": "献上今天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/dy20181029/dy/dy181029.mp3",
+		"id": 24181029
 	}
 ]
