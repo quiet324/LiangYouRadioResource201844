@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180724",
-		"title": "教牧新视野： 再思“作主门徒”的意义（主持：姚谦、杨天成）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180724.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201830/ds20180724/ds/ds180724.mp3",
-		"id": 46180724
-	},
-	{
 		"time": "20180725",
 		"title": "晨曦交流站：卢文牧师和文惠与你探讨听众所关注的教会问题",
 		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180725.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/ds20181029/ds/ds181029.mp3",
 		"id": 46181029
+	},
+	{
+		"time": "20181030",
+		"title": "教牧新视野：委身大使命的教会的特征（主持：姚谦、林诚）",
+		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181030.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/ds20181030/ds/ds181030.mp3",
+		"id": 46181030
 	}
 ]
