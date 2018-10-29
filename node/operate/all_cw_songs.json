@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180723",
-		"title": "生命之歌：倪安德《赞美上主》",
-		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180723.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201830/cw20180723/cw/cw180723.mp3",
-		"id": 51180723
-	},
-	{
 		"time": "20180724",
 		"title": "弹指之间：《主我相信》、《我的一生在你手中》、《恩典之路》",
 		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180724.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/cw20181029/cw/cw181029.mp3",
 		"id": 51181029
+	},
+	{
+		"time": "20181030",
+		"title": "弹指之间：《他》、《恩典之洋》、《耶稣恩友》",
+		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181030.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/cw20181030/cw/cw181030.mp3",
+		"id": 51181030
 	}
 ]
