@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180726",
-		"title": "回收人生ing：如果真的了解，就会渴望上天堂──杨右任（5）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ka/ka180726.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 3,
-		"artistName": "天使夜未眠",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201830/ka20180726/ka/ka180726.mp3",
-		"id": 3180726
-	},
-	{
 		"time": "20180727",
 		"title": "信仰Q&A：基督徒应该留意风水星座吗？",
 		"downUrl": "http://txly2.net/ly/audio/2018/ka/ka180727.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "天使夜未眠",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/ka20181030/ka/ka181030.mp3",
 		"id": 3181030
+	},
+	{
+		"time": "20181031",
+		"title": "夏天来Talk：情绪聪明人；空中留言板：你不理财财不理你",
+		"downUrl": "http://txly2.net/ly/audio/2018/ka/ka181031.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 3,
+		"artistName": "天使夜未眠",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/ka20181031/ka/ka181031.mp3",
+		"id": 3181031
 	}
 ]
