@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180724",
-		"title": "希望音乐会",
-		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn180724.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 22,
-		"artistName": "现代人的希望",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201830/gn20180724/gn/gn180724.mp3",
-		"id": 22180724
-	},
-	{
 		"time": "20180725",
 		"title": "小提琴家之路──林主莉的故事",
 		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn180725.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "现代人的希望",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/gn20181030/gn/gn181030.mp3",
 		"id": 22181030
+	},
+	{
+		"time": "20181031",
+		"title": "灿烂的盼望──小勒的故事",
+		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn181031.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 22,
+		"artistName": "现代人的希望",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/gn20181031/gn/gn181031.mp3",
+		"id": 22181031
 	}
 ]
