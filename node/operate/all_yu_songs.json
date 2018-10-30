@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180725",
-		"title": "绝妙工作101：认清工作现实面",
-		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu180725.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 7,
-		"artistName": "绝妙当家",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201830/yu20180725/yu/yu180725.mp3",
-		"id": 7180725
-	},
-	{
 		"time": "20180726",
 		"title": "绝妙热话题：和外国人交朋友",
 		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu180726.mp3",
@@ -1008,5 +997,16 @@
 		"artistName": "绝妙当家",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/yu20181030/yu/yu181030.mp3",
 		"id": 7181030
+	},
+	{
+		"time": "20181031",
+		"title": "绝妙各行业：专业制茶师（上）",
+		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu181031.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 7,
+		"artistName": "绝妙当家",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/yu20181031/yu/yu181031.mp3",
+		"id": 7181031
 	}
 ]
