@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180724",
-		"title": "信心日引：我们为什么说阿们（林后1:20）；大阅读家：第四章、从峡谷的对面阅读-4",
-		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180724.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 10,
-		"artistName": "书香园地",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201830/bc20180724/bc/bc180724.mp3",
-		"id": 10180724
-	},
-	{
 		"time": "20180725",
 		"title": "信心日引：在基督里成长（弗4:13-14）；大阅读家：第五章、赐予者的声音-1",
 		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180725.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "书香园地",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/bc20181030/bc/bc181030.mp3",
 		"id": 10181030
+	},
+	{
+		"time": "20181031",
+		"title": "信心日引：信心改变人（来11:9）；俗世圣徒：第十四章、宗教-1",
+		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc181031.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 10,
+		"artistName": "书香园地",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/bc20181031/bc/bc181031.mp3",
+		"id": 10181031
 	}
 ]
