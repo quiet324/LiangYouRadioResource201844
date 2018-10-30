@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180724",
-		"title": "亲情出行：小芳探亲行（3）先生（上）；与父母促膝谈：留下来",
-		"downUrl": "http://txly2.net/ly/audio/2018/up/up180724.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 20,
-		"artistName": "亲情不断电",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201830/up20180724/up/up180724.mp3",
-		"id": 20180724
-	},
-	{
 		"time": "20180725",
 		"title": "亲情音乐厅：《我要专心等候耶和华》；与父母促膝谈：让婚姻达到最美好的境界",
 		"downUrl": "http://txly2.net/ly/audio/2018/up/up180725.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "亲情不断电",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/up20181030/up/up181030.mp3",
 		"id": 20181030
+	},
+	{
+		"time": "20181031",
+		"title": "情绪与真理（3）每个人的两个深层需要",
+		"downUrl": "http://txly2.net/ly/audio/2018/up/up181031.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 20,
+		"artistName": "亲情不断电",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/up20181031/up/up181031.mp3",
+		"id": 20181031
 	}
 ]
