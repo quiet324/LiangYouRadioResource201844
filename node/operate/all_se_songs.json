@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180724",
-		"title": "祝福你的丈夫，享受美好婚姻（2）面对婚姻的真相和我们自己的本相，需要调整眼光从神观看",
-		"downUrl": "http://txly2.net/ly/audio/2018/se/se180724.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 19,
-		"artistName": "恋爱季节",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201830/se20180724/se/se180724.mp3",
-		"id": 19180724
-	},
-	{
 		"time": "20180725",
 		"title": "祝福你的丈夫，享受美好婚姻（3）使残缺的爱得以成长",
 		"downUrl": "http://txly2.net/ly/audio/2018/se/se180725.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "恋爱季节",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/se20181030/se/se181030.mp3",
 		"id": 19181030
+	},
+	{
+		"time": "20181031",
+		"title": "倾听彼此对爱的心声，找出活在爱中的秘诀（6）修复关系的十大步骤",
+		"downUrl": "http://txly2.net/ly/audio/2018/se/se181031.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 19,
+		"artistName": "恋爱季节",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/se20181031/se/se181031.mp3",
+		"id": 19181031
 	}
 ]
