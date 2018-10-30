@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180724",
-		"title": "大卫的热切与际遇系列：走出风暴（3）",
-		"downUrl": "http://txly2.net/ly/audio/2018/iv/iv180724.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 42,
-		"artistName": "生活之光",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201830/iv20180724/iv/iv180724.mp3",
-		"id": 42180724
-	},
-	{
 		"time": "20180725",
 		"title": "大卫的热切与际遇系列：需要帮助的朋友（1）",
 		"downUrl": "http://txly2.net/ly/audio/2018/iv/iv180725.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "生活之光",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/iv20181030/iv/iv181030.mp3",
 		"id": 42181030
+	},
+	{
+		"time": "20181031",
+		"title": "家庭至为重要：投资在永恒的事情上系列──在具挑战的年月中生存下去（3）",
+		"downUrl": "http://txly2.net/ly/audio/2018/iv/iv181031.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 42,
+		"artistName": "生活之光",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/iv20181031/iv/iv181031.mp3",
+		"id": 42181031
 	}
 ]
