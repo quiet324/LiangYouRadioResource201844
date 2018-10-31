@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180726",
-		"title": "宣教心之路：大使命中的不同角色（主持：姚谦、杨天成）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180726.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201830/ds20180726/ds/ds180726.mp3",
-		"id": 46180726
-	},
-	{
 		"time": "20180727",
 		"title": "从布道到培训：执事的建立（主持：卢文、周虹）",
 		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180727.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/ds20181031/ds/ds181031.mp3",
 		"id": 46181031
+	},
+	{
+		"time": "20181101",
+		"title": "宣教心之路：宣教士职前心理评估（主持：姚谦、林诚）",
+		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181101.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/ds20181101/ds/ds181101.mp3",
+		"id": 46181101
 	}
 ]
