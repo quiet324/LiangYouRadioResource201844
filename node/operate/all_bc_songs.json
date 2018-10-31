@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180725",
-		"title": "信心日引：在基督里成长（弗4:13-14）；大阅读家：第五章、赐予者的声音-1",
-		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180725.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 10,
-		"artistName": "书香园地",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201830/bc20180725/bc/bc180725.mp3",
-		"id": 10180725
-	},
-	{
 		"time": "20180726",
 		"title": "信心日引：活在真葡萄树里面（约15:5）；大阅读家：第五章、赐予者的声音-2",
 		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180726.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "书香园地",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/bc20181031/bc/bc181031.mp3",
 		"id": 10181031
+	},
+	{
+		"time": "20181101",
+		"title": "信心日引：对罪与惩罚的惧怕（拿1:9-10）；俗世圣徒：第十四章、宗教-2",
+		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc181101.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 10,
+		"artistName": "书香园地",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/bc20181101/bc/bc181101.mp3",
+		"id": 10181101
 	}
 ]
