@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180725",
-		"title": "为神建立家室：圣洁的呼召",
-		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut180725.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 18,
-		"artistName": "我们的时间",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201830/ut20180725/ut/ut180725.mp3",
-		"id": 18180725
-	},
-	{
 		"time": "20180726",
 		"title": "生活百花园：没有虚假的爱",
 		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut180726.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "我们的时间",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/ut20181031/ut/ut181031.mp3",
 		"id": 18181031
+	},
+	{
+		"time": "20181101",
+		"title": "为神建立家室：神了解我们",
+		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut181101.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 18,
+		"artistName": "我们的时间",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/ut20181101/ut/ut181101.mp3",
+		"id": 18181101
 	}
 ]
