@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180726",
-		"title": "巨人的秘密：英国医生葛林费尔",
-		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc180726.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 17,
-		"artistName": "爆米花",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201830/pc20180726/pc/pc180726.mp3",
-		"id": 17180726
-	},
-	{
 		"time": "20180727",
 		"title": "皮小弟与妙阿姨：出卖笑容的男孩（1）",
 		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc180727.mp3",
@@ -867,5 +856,16 @@
 		"artistName": "爆米花",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/pc20181031/pc/pc181031.mp3",
 		"id": 17181031
+	},
+	{
+		"time": "20181101",
+		"title": "巨人的秘密：东晋官员吴隐之（下）",
+		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc181101.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 17,
+		"artistName": "爆米花",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/pc20181101/pc/pc181101.mp3",
+		"id": 17181101
 	}
 ]
