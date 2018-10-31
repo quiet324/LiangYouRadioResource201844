@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180725",
-		"title": "心歌心曲：扎克‧威廉斯《重获自由》、《老诗歌》",
-		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180725.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201830/cw20180725/cw/cw180725.mp3",
-		"id": 51180725
-	},
-	{
 		"time": "20180726",
 		"title": "来吧赞美：《诸天宣扬》、《求主为我造清洁的心》、《爱中相遇》、《我献上我心》",
 		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180726.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/cw20181031/cw/cw181031.mp3",
 		"id": 51181031
+	},
+	{
+		"time": "20181101",
+		"title": "来吧赞美：《众城门抬起头》、《主的喜乐是我力量》、《那双看不见的手》、《信心的旅途》",
+		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181101.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/cw20181101/cw/cw181101.mp3",
+		"id": 51181101
 	}
 ]
