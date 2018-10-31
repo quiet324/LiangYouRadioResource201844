@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180724",
-		"title": "好得无比，每一天：刺的大用（林后12:10）；鲍勃鲍曼博士生平广播剧（7）；有奖问答（7）远东广播在韩国哪个地方兴建发射站？我爱背金句：提前6:11",
-		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy180724.mp3",
-		"duration": 3560,
-		"size": "28.5M",
-		"artistId": 24,
-		"artistName": "献上今天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201830/dy20180724/dy/dy180724.mp3",
-		"id": 24180724
-	},
-	{
 		"time": "20180725",
 		"title": "好得无比，每一天：欲速不达（诗27:14）；鲍勃鲍曼博士生平广播剧（8）；有奖问答（8）鲍曼博士和他的英国朋友在印度哪个地方建立广播发射站？我爱背金句：提前6:11",
 		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy180725.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "献上今天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/dy20181030/dy/dy181030.mp3",
 		"id": 24181030
+	},
+	{
+		"time": "20181031",
+		"title": "好得无比，每一天：爸，那是假的（玛2:16）；天路历程（18）；我爱背金句：赛6:8",
+		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy181031.mp3",
+		"duration": 3560,
+		"size": "28.5M",
+		"artistId": 24,
+		"artistName": "献上今天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/dy20181031/dy/dy181031.mp3",
+		"id": 24181031
 	}
 ]
