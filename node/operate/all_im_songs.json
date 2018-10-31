@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180725",
-		"title": "太太空间：确认过眼神找对人，可为何进入婚姻就不对了呢？──婚姻生活中由于夫妻双方的差异性而产生种种矛盾冲突，面对如此熟悉的婚姻挑战，是准备好合则聚、不合就离？还是准备好应战呢？她选择寻找分析差异的原因，并接纳差异、减少冷战和冲突。",
-		"downUrl": "http://txly2.net/ly/audio/2018/im/im180725.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 14,
-		"artistName": "i关怀心磁场",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201830/im20180725/im/im180725.mp3",
-		"id": 14180725
-	},
-	{
 		"time": "20180726",
 		"title": "黄昏下午茶：你的恋爱标准是什么？──不同的人对恋爱就有不同的标准与要求，除了普遍的笼统的标准，喜欢、看重、希望……都是对恋爱对象的潜在要求或标准，却是在寻求配偶的过程中才可能发现的……而这些潜在标准可能是对上眼神的关键，因此需要留意、认真思考。",
 		"downUrl": "http://txly2.net/ly/audio/2018/im/im180726.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "i关怀心磁场",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/im20181031/im/im181031.mp3",
 		"id": 14181031
+	},
+	{
+		"time": "20181101",
+		"title": "信仰大擂台：分辨真假基督信仰──真币摸多了，识别假币就很容易，同样，真理（圣经）看多了，假道理一来立刻显形。有道是：假的真不了，真的也一定假不了。",
+		"downUrl": "http://txly2.net/ly/audio/2018/im/im181101.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 14,
+		"artistName": "i关怀心磁场",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/im20181101/im/im181101.mp3",
+		"id": 14181101
 	}
 ]
