@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180725",
-		"title": "与年轻人谈人生：论知识（上）",
-		"downUrl": "http://txly2.net/ly/audio/2018/pb/pb180725.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 44,
-		"artistName": "接棒人",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201830/pb20180725/pb/pb180725.mp3",
-		"id": 44180725
-	},
-	{
 		"time": "20180726",
 		"title": "与年轻人谈人生：论知识（下）",
 		"downUrl": "http://txly2.net/ly/audio/2018/pb/pb180726.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "接棒人",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/pb20181031/pb/pb181031.mp3",
 		"id": 44181031
+	},
+	{
+		"time": "20181101",
+		"title": "信仰生命之道系列：常感恩赞美神",
+		"downUrl": "http://txly2.net/ly/audio/2018/pb/pb181101.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 44,
+		"artistName": "接棒人",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/pb20181101/pb/pb181101.mp3",
+		"id": 44181101
 	}
 ]
