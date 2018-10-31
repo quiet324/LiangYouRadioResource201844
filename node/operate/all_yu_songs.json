@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180726",
-		"title": "绝妙热话题：和外国人交朋友",
-		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu180726.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 7,
-		"artistName": "绝妙当家",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201830/yu20180726/yu/yu180726.mp3",
-		"id": 7180726
-	},
-	{
 		"time": "20180727",
 		"title": "绝妙小剧场：多给与少给",
 		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu180727.mp3",
@@ -1008,5 +997,16 @@
 		"artistName": "绝妙当家",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/yu20181031/yu/yu181031.mp3",
 		"id": 7181031
+	},
+	{
+		"time": "20181101",
+		"title": "绝妙热话题：打呼七招变安静",
+		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu181101.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 7,
+		"artistName": "绝妙当家",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/yu20181101/yu/yu181101.mp3",
+		"id": 7181101
 	}
 ]
