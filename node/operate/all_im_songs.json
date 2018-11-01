@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180726",
-		"title": "黄昏下午茶：你的恋爱标准是什么？──不同的人对恋爱就有不同的标准与要求，除了普遍的笼统的标准，喜欢、看重、希望……都是对恋爱对象的潜在要求或标准，却是在寻求配偶的过程中才可能发现的……而这些潜在标准可能是对上眼神的关键，因此需要留意、认真思考。",
-		"downUrl": "http://txly2.net/ly/audio/2018/im/im180726.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 14,
-		"artistName": "i关怀心磁场",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201830/im20180726/im/im180726.mp3",
-		"id": 14180726
-	},
-	{
 		"time": "20180727",
 		"title": "母子两地书：爱里没有惧怕──做父母的与其为了面子、为了树立权威的缘故，在孩子面前不懂装懂、弄虚作假，不如向孩子坦诚承认自己的有限甚至错误，帮助孩子学会客观看待自己和他人。爱里没有惧怕，因为爱就不必害怕让孩子认识真实的爸爸妈妈；因为爱的关系，更不会惧怕。",
 		"downUrl": "http://txly2.net/ly/audio/2018/im/im180727.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "i关怀心磁场",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/im20181101/im/im181101.mp3",
 		"id": 14181101
+	},
+	{
+		"time": "20181102",
+		"title": "信仰大擂台：辨识异端──大凡异端者，初识都与基督徒无二，甚至表现比一般的基督徒更热情，但渐渐就会在教义上露出破绽，比如自称唯一，把正统信仰指为错误；不接受正统教义，另立自己的教义，篡改救恩等。但真理只有一个，建立在真理根基上，才不会被假的迷惑。",
+		"downUrl": "http://txly2.net/ly/audio/2018/im/im181102.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 14,
+		"artistName": "i关怀心磁场",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/im20181102/im/im181102.mp3",
+		"id": 14181102
 	}
 ]
