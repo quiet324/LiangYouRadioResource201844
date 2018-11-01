@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180726",
-		"title": "生活百花园：没有虚假的爱",
-		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut180726.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 18,
-		"artistName": "我们的时间",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201830/ut20180726/ut/ut180726.mp3",
-		"id": 18180726
-	},
-	{
 		"time": "20180727",
 		"title": "情感交流站：出死入生",
 		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut180727.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "我们的时间",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/ut20181101/ut/ut181101.mp3",
 		"id": 18181101
+	},
+	{
+		"time": "20181102",
+		"title": "生活百花园：求就得着",
+		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut181102.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 18,
+		"artistName": "我们的时间",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/ut20181102/ut/ut181102.mp3",
+		"id": 18181102
 	}
 ]
