@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180726",
-		"title": "树墩子学校：救救哼哼龙",
-		"downUrl": "http://txly2.net/ly/audio/2018/hg/hg180726.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 2,
-		"artistName": "欢乐卡恰碰",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201830/hg20180726/hg/hg180726.mp3",
-		"id": 2180726
-	},
-	{
 		"time": "20180727",
 		"title": "729良友电台69周年庆！",
 		"downUrl": "http://txly2.net/ly/audio/2018/hg/hg180727.mp3",
@@ -723,5 +712,15 @@
 		"artistName": "欢乐卡恰碰",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/hg20181101/hg/hg181101.mp3",
 		"id": 2181101
+	},
+	{
+		"time": "20181102",
+		"downUrl": "http://txly2.net/ly/audio/2018/hg/hg181102.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 2,
+		"artistName": "欢乐卡恰碰",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/hg20181102/hg/hg181102.mp3",
+		"id": 2181102
 	}
 ]
