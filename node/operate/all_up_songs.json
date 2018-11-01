@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180726",
-		"title": "亲情健身房：无器械健身（7）核心肌群（上）；与父母促膝谈：同在一起",
-		"downUrl": "http://txly2.net/ly/audio/2018/up/up180726.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 20,
-		"artistName": "亲情不断电",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201830/up20180726/up/up180726.mp3",
-		"id": 20180726
-	},
-	{
 		"time": "20180727",
 		"title": "教导儿女智财教育：第三课、善用红包教育（下）善用机会，学习慷慨",
 		"downUrl": "http://txly2.net/ly/audio/2018/up/up180727.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "亲情不断电",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/up20181101/up/up181101.mp3",
 		"id": 20181101
+	},
+	{
+		"time": "20181102",
+		"title": "情绪与真理（5）没有十全十美的父母，但可以成为一个不断成长的父母",
+		"downUrl": "http://txly2.net/ly/audio/2018/up/up181102.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 20,
+		"artistName": "亲情不断电",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/up20181102/up/up181102.mp3",
+		"id": 20181102
 	}
 ]
