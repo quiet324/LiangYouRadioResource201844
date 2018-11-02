@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180728",
-		"title": "学道篇：研经与释经──辨别文体实例（2）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ynf/ynf180728.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 58,
-		"artistName": "爱在人间（云南话）",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201830/ynf20180728/ynf/ynf180728.mp3",
-		"id": 58180728
-	},
-	{
 		"time": "20180729",
 		"title": "学道篇：圣经与修辞（1）",
 		"downUrl": "http://txly2.net/ly/audio/2018/ynf/ynf180729.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "爱在人间（云南话）",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/ynf20181102/ynf/ynf181102.mp3",
 		"id": 58181102
+	},
+	{
+		"time": "20181103",
+		"title": "学道篇：研经与释经",
+		"downUrl": "http://txly2.net/ly/audio/2018/ynf/ynf181103.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 58,
+		"artistName": "爱在人间（云南话）",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/ynf20181103/ynf/ynf181103.mp3",
+		"id": 58181103
 	}
 ]
